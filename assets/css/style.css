@@ -11,7 +11,7 @@ header {
 
 .top-nav {
     background-color: #d9ecef;
-    height: 50px;
+    height: 80px;
 }
 
 .top-content {
@@ -28,7 +28,7 @@ header {
     background-color: #2616ce;
     width: 20%;
     border: 3px solid rgb(11, 10, 10);
-    height: 25px;
+    height: 35px;
 }
 
 .logo a {
@@ -41,7 +41,7 @@ header {
 .navbar {
     background-color: #1e0076;
     width: 60%;
-    height: 25px;
+    height: 35px;
     display: flex;
     justify-content: space-around;
 }
@@ -50,7 +50,7 @@ header {
     background-color: #2616ce;
     width: 20%;
     text-align: right;
-    height: 25px;
+    height: 35px;
     border: 3px solid rgb(0, 0, 0);
 }
 
@@ -93,7 +93,7 @@ header {
 .image {
     background-color: #292841;
     height: 300px;
-    width: 500px;
+    width: 600px;
  
 }
 
@@ -101,7 +101,7 @@ header {
 .text {
     background-color: #6e6eb1;
     height: 300px;
-    width: 300px;
+    width: 400px;
     border: 2px solid #000;
     color: white;
     padding: 20px;
@@ -110,5 +110,14 @@ header {
 .img {
     width: 450px;
     height: 380px;
-    align-items: center;
+   
+}
+
+.bckgrnd {
+    background-color: #f7f7f7;
+}
+
+.img2 {
+    width: 450px;
+    height: 345px;
 }
