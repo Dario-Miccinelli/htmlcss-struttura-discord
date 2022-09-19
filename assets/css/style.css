@@ -74,9 +74,41 @@ header {
 }
 
 .bottom-content {
-
+   
     width: 350px;
     height: 250px;
     background-color: #100811;
     border: 1px solid #000;
+}
+
+.flexo {
+    width: 60%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 350px;
+}
+
+.image {
+    background-color: #292841;
+    height: 300px;
+    width: 500px;
+ 
+}
+
+
+.text {
+    background-color: #6e6eb1;
+    height: 300px;
+    width: 300px;
+    border: 2px solid #000;
+    color: white;
+    padding: 20px;
+}
+
+.img {
+    width: 450px;
+    height: 380px;
+    align-items: center;
 }
