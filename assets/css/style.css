@@ -121,3 +121,34 @@ header {
     width: 450px;
     height: 345px;
 }
+
+.container-flex {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* .big-one {
+    height: 600px;
+    width: 600px;
+} */
+
+.bckgrnd-2 {
+    background-color: #292841;
+    width: 80%;
+    height: 200px;
+    display: flex;
+    margin: auto;
+        
+}
+
+.bckgrnd-3 {
+    width: 80%;
+    height: 500px;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    background-color:#B9BBBE;
+
+}
